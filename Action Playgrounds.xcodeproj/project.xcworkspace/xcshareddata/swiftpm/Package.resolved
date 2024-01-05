@@ -1,0 +1,149 @@
+{
+  "pins" : [
+    {
+      "identity" : "actionkit-macos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/david-swift/ActionKit-macOS",
+      "state" : {
+        "revision" : "c0adc50ad5dbb9f92939956c22dc7cabfda97bea",
+        "version" : "0.1.6"
+      }
+    },
+    {
+      "identity" : "colibricomponents-macos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/david-swift/ColibriComponents-macOS",
+      "state" : {
+        "revision" : "79d40222f1d219a1417b9e03a0f08f1b61fa467a",
+        "version" : "0.1.9"
+      }
+    },
+    {
+      "identity" : "functions-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/functions-swift",
+      "state" : {
+        "revision" : "c680cdfc53399376bdece299b1387b4fb3da514e",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "get",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Get",
+      "state" : {
+        "revision" : "12830cc64f31789ae6f4352d2d51d03a25fc3741",
+        "version" : "2.1.6"
+      }
+    },
+    {
+      "identity" : "getextensions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/binaryscraping/GetExtensions",
+      "state" : {
+        "revision" : "aa20f38721142eb6592b2c8f11179d32d7d70ae3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "gotrue-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/gotrue-swift",
+      "state" : {
+        "revision" : "4bf132d73d322ee5d6d648f02deb9f2bc19cc659",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess",
+      "state" : {
+        "revision" : "84e546727d66f1adc5439debad16270d0fdd04e7",
+        "version" : "4.2.2"
+      }
+    },
+    {
+      "identity" : "pigeonapp-macos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/david-swift/PigeonApp-macOS",
+      "state" : {
+        "revision" : "3c6a7af36cc75787fb744ed1409e50a69e69480a",
+        "version" : "0.2.10"
+      }
+    },
+    {
+      "identity" : "postgrest-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/postgrest-swift",
+      "state" : {
+        "revision" : "fb91f56ffcfe829c0cba2bfc180b1e669a8dd2e4",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "realtime-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/realtime-swift.git",
+      "state" : {
+        "revision" : "0b985c687fe963f6bd818ff77a35c27247b98bb4",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "settingskit-macos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/david-swift/SettingsKit-macOS",
+      "state" : {
+        "revision" : "5b670db13e6ef15741a26a19d826f46202980aab",
+        "version" : "0.1.9"
+      }
+    },
+    {
+      "identity" : "sfsafesymbols",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SFSafeSymbols/SFSafeSymbols",
+      "state" : {
+        "revision" : "7cca2d60925876b5953a2cf7341cd80fbeac983c",
+        "version" : "4.1.1"
+      }
+    },
+    {
+      "identity" : "storage-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/storage-swift.git",
+      "state" : {
+        "revision" : "db67ce7764ef80e7941cea6bc4a0104c88e060f8",
+        "version" : "0.1.3"
+      }
+    },
+    {
+      "identity" : "supabase-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/supabase-community/supabase-swift",
+      "state" : {
+        "revision" : "7088b85247c8e56317f0b22b9d60655e8f762fec",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "swiftlintplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukepistrol/SwiftLintPlugin",
+      "state" : {
+        "revision" : "b1090ecd269dddd96bda0df24ca3f1aa78f33578",
+        "version" : "0.52.4"
+      }
+    },
+    {
+      "identity" : "urlqueryencoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/URLQueryEncoder",
+      "state" : {
+        "revision" : "4ce950479707ea109f229d7230ec074a133b15d7",
+        "version" : "0.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
