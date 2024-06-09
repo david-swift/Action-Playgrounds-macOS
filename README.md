@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project is no longer maintained. It served as a sample app for the [ActionKit](https://david-swift.github.io/ActionKit-macOS/) package for Swift which is still maintained and can be used in macOS apps.
+
 <p align="center">
   <img width="256" alt="Action Playgrounds App Icon" src="Icons/AppIcon.png">
   <h1 align="center">Action Playgrounds</h1>
